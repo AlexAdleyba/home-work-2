@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AlexAdleyba/home-work-2.git/static/css/main.825a08c3.css",
+    "main.js": "/AlexAdleyba/home-work-2.git/static/js/main.1a0e4609.js",
+    "static/js/787.66cb4309.chunk.js": "/AlexAdleyba/home-work-2.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/AlexAdleyba/home-work-2.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/AlexAdleyba/home-work-2.git/index.html",
+    "main.825a08c3.css.map": "/AlexAdleyba/home-work-2.git/static/css/main.825a08c3.css.map",
+    "main.1a0e4609.js.map": "/AlexAdleyba/home-work-2.git/static/js/main.1a0e4609.js.map",
+    "787.66cb4309.chunk.js.map": "/AlexAdleyba/home-work-2.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.825a08c3.css",
+    "static/js/main.1a0e4609.js"
+  ]
+}
